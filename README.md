@@ -33,7 +33,7 @@ Me chamo Gabriel Willian, sou Engenheiro de Software focado em **Back-end**. Min
 
 ### 🔧 Dev Environment & Tools
 
-- **OS:** Linux Fedora
+- **OS:** Linux Ubuntu
 - **Terminal:** Zsh + Oh My Zsh ⚡
 - **Shell Theme:** Powerlevel10k
 - **Database:** MySQL | MariaDB
